@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning to code and all things data!
 - 🌱 I’m currently learning Javascript and Python.
 - 💞️ I’m looking to collaborate on projects that help me learn.
-- 📫 How to reach me: sfycode@gmail.com
+- 📫 How to reach me:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Most mirrors are actually slightly green
 
